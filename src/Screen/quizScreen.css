@@ -1,0 +1,8 @@
+.btn-shadow {
+  box-shadow: 5px 4px 5px rgba(35, 33, 33, 0.5) !important;
+ 
+}
+
+.btn-rounded {
+  border-radius: 5px !important;
+}
